@@ -1,0 +1,10 @@
+com\nimap\controller\CategoryController.class
+com\nimap\service\ProductService.class
+com\nimap\NimapApplication.class
+com\nimap\model\Category.class
+com\nimap\service\CategoryService.class
+com\nimap\controller\ProductController.class
+com\nimap\model\Product.class
+com\nimap\ServletInitializer.class
+com\nimap\repository\CategoryRepository.class
+com\nimap\repository\ProductRepository.class
